@@ -19,15 +19,6 @@ The objective was to create a robust, modular embedded control system capable of
 - **MDU:** L6205 dual full-bridge motor driver for bidirectional DC motor control  
 - **PCB Tool:** Altium Designer (schematic, layout, DRC, and 3D visualization)
 
-## 📁 Folder Structure
-
-```
-/schematics         - Schematic files (.SchDoc)
-/pcb_layouts        - PCB layout files (.PcbDoc)
-/3d_views           - 3D renderings and screenshots
-/outputs            - Gerbers, BOM, and PDFs
-/docs               - Full project report
-```
 
 ## ✅ Features
 
