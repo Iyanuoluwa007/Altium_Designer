@@ -62,8 +62,6 @@ The objective was to create a robust, modular embedded control system capable of
 
 Key component datasheets and academic papers are cited in the full [project report](./docs/Oke_Iyanuoluwa_Mech_Report.pdf).
 
-## 👥 Authors
+## 👥 Author
 
-- **Oke Iyanuoluwa Enoch**  
-- Team: Love Akinrele, Ifeorah Anthony, Revanth Reddy  
-- MSc Robotics and Automation, University of Salford
+- **Oke Iyanuoluwa Enoch** 
